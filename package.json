@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dylanblanchard/Sweet-Wonder/issues"
   },
-  "homepage": "https://github.com/dylanblanchard/Sweet-Wonder#readme"
+  "homepage": "https://github.com/dylanblanchard/Sweet-Wonder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
