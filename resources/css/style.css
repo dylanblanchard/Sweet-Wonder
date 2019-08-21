@@ -3,10 +3,6 @@ html {
   font-family: Helvetica, sans-serif;
 }
 
-div {
-  border: 1px solid red;
-}
-
 .container {
   display: flex;
   max-width: 960px;
@@ -32,7 +28,7 @@ div {
 }
 
 .banner {
-  background-color: lightgrey;
+  background-color: #eda440;
 }
 
 .text {
@@ -40,6 +36,7 @@ div {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
+  color: white;
 }
 
 h1 {
